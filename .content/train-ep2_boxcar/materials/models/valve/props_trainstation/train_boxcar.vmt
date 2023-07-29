@@ -1,0 +1,14 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/valve/props_trainstation/train_boxcar_proxy_d
+
+	$detail detail/metal_detail_01
+	$detailscale 12
+	$detailblendfactor 0.8
+	$detailblendmode 0
+
+	$blendtintbybasealpha 1
+
+}

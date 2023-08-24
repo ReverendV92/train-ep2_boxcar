@@ -20,7 +20,7 @@ vertexlitgeneric
 		{
 
 			srcvar1 $color2
-			resultVar $color2 // The shader parameter to be manipulated
+			resultVar $color // The shader parameter to be manipulated
 
 		}
 
